@@ -3,4 +3,5 @@
 ## TESTE COMANDO PUSH
 * testando alguma coisa
 * testando comando pull
+* teste
 
